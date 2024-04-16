@@ -13,7 +13,7 @@ The following tutorial was made and test with the following software:
 * CLion 2020.3.2 (Build 203.7148.70)
 * CUTE Standalone v2.2.6 (14 Oct 2019)
 
-If something goes wrong or is hard to understand, be sure to contact us at [ni@aefeup.pt](mailto:ni@aefeup.pt), message us on [Facebook](www.facebook.com/niaefeup) or submit a pull request here!
+Forked from https://github.com/NIAEFEUP/cute-clion (archive)
 
 ## Table of Contents
 1. [Requirements](#requirements)
@@ -96,5 +96,5 @@ Explanation:
 5. This function creates the executable from the project name provided in the second line and all the files in the `SOURCE_FILES` variable.
 
 ## Not happy?
-If this was not what you were looking for, check out this picture of a `cute sea lion`. I hope this helps..
+If this was not what you were looking for, check out this picture of a `cute sea lion` I took. I hope this helps..
 ![cute sea lion](cute_sea_lion.jpg)
